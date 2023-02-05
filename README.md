@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I am a Nishad Vadgama.</h1>
+<h1 align="center">Hello, I'm Nishad Vadgama.</h1>
 
 - 👨‍💻 I'm a Full Stack Developer
 - 🔧 I'm proficient in PHP and JavaScript
