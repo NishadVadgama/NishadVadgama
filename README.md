@@ -1,9 +1,7 @@
 <h1 align="center">Hello, I'm Nishad Vadgama.</h1>
 
 - 👨‍💻 I'm a Full Stack Developer
-- 🔧 I'm proficient in PHP and JavaScript
-- 🔭 I’m currently working on React.JS and Pockebase
-- 🌱 I’m currently learning Nest.JS
+- 🔧 I'm proficient in PHP and JavaScript Frameworks
 
 #### Languages and Tools
 <p style="margin:15px 0;display:grid;grid-template-columns:repeat(8,50px);gap: 10px;grid-auto-flow:row;grid-auto-rows:50px 50px;"><a target="_BLANK" href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="PHP" width="40" height="40"/></a> 
@@ -41,7 +39,5 @@
 <a target="_BLANK" href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a> 
 <a target="_BLANK" href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="Apache" width="40" height="40"/></a> 
 <a target="_BLANK" href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/></a> </p>
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=NishadVadgama&count_private=true&show_icons=true&hide=stars,issues,contribs&theme=radical)
 
 ![Most Used Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=NishadVadgama&layout=compact&theme=radical)
